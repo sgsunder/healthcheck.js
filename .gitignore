@@ -1,0 +1,4 @@
+**/node_modules
+**/*.sock
+healthcheck
+package-lock.json
